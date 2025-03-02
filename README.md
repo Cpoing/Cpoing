@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Ted 👋
 
-<!--
-**Cpoing/Cpoing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 👨‍💻 Full Stack Developer with a passion for building innovative solutions.
+- 🌱 Currently learning more about advanced concepts in full stack development.
+- 💬 My favorite technologies are Golang, TypeScript, React, and Node.js.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ted-lee-/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cpoing&layout=compact&theme=radical)
+
+## Projects and Experience
+
+### [RateMyHall](https://github.com/Cpoing/ratemyhall)
+- A lecture hall reviewing platform aimed at raising awareness to issues that negatively impact the learning environment.
+- Key technologies: React, TypeScript, Node.js, MongoDB.
+
+### Project 2
+- A website where users can solve challenges and riddles to be rewarded prizes, aimed at teaching and improving programming concepts for kids.
+- Key technologies: React, TypeScript, Node.js, MongoDB.
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/ted-lee-)
+- [Personal Website](https://tedlee-portfolio.vercel.app/)
