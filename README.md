@@ -3,7 +3,7 @@
 ## About Me
 
 - 👨‍💻 Full Stack Developer with a passion for building innovative solutions.
-- 🌱 Currently learning more about advanced concepts in full stack development.
+- 🌱 Currently learning more about backend technologies and distributed systems.
 - 💬 My favorite technologies are Golang, TypeScript, React, and Node.js.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ted-lee-/)
 
