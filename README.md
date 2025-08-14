@@ -11,16 +11,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cpoing&layout=compact&theme=radical)
 
-## Projects and Experience
-
-### [RateMyHall](https://github.com/Cpoing/ratemyhall)
-- A lecture hall reviewing platform aimed at raising awareness to issues that negatively impact the learning environment.
-- Key technologies: React, TypeScript, Node.js, MongoDB.
-
-### Project 2
-- A website where users can solve challenges and riddles to be rewarded prizes, aimed at teaching and improving programming concepts for kids.
-- Key technologies: React, TypeScript, Node.js, MongoDB.
-
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/ted-lee-)
