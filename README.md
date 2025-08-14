@@ -7,4 +7,3 @@
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/ted-lee-)
-- [Personal Website](https://tedlee-portfolio.vercel.app/)
